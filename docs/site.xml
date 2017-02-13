@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/uk.co.jrtapsell.javafx.feature_1.8.40.b27.jar" id="uk.co.jrtapsell.javafx.feature" version="1.8.40.b27">
+      <category name="uk.co.jrtapsell.javafx.catagory"/>
+   </feature>
+   <category-def name="uk.co.jrtapsell.javafx.catagory" label="Utilities"/>
+</site>
